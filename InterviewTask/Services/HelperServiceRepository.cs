@@ -8,6 +8,7 @@ namespace InterviewTask.Services
 {
     public class HelperServiceRepository : IHelperServiceRepository
     {
+        
         /// <summary>
         /// Returns all HelperService data, form the back-office CRM system.
         /// </summary>
